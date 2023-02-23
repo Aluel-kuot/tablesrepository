@@ -1,0 +1,47 @@
+.container{
+  display: flex;
+}
+
+.image{
+  width: 100%;
+  height: 200%;
+  margin-top: 5%;
+  }
+  .form{
+    margin-right: 20%;
+    font-size: larger;
+  }
+  .body{
+    color: blue;
+    background-color: aqua;
+  }
+  
+    .form{
+        color: blue;
+    }
+    .sign{
+        color: blue;
+    }
+    table,th,tr,td{
+      border: 1px dotted rgb(20, 220, 193);
+  }
+.table{
+  border-width: 100%;
+background-image: url("cloud.jpg");
+font-size: larger;
+width: 100%;
+height: 500%;
+}
+.sign{
+  border-radius: 20px;
+}
+button{
+  border: none;
+  border-radius: 30px;
+  background-color:lightseagreen;
+  font-size: larger;
+  padding: 10px ;
+}
+    
+    
+    
